@@ -387,7 +387,7 @@ def to_categorical(columns, df):
     return df
 
 
-# # Delivery 5 (1 and 2)
+# # 
 
 # # Step #1 - Prediction of Financial Literacy and 1st Fusion Variable
 
