@@ -1,4 +1,5 @@
-# multimodal_churn_model
+# Churn Prediction via Multimodal Fusion Learning: Integrating Customer Financial Literacy, Voice, and Behavioral Data
+
 Our study, for the first time, aims to predict customer churn propensity by uniquely incorporating diverse modalities. This includes analysis of survey data on customer financial literacy level, emotion detection data in the voice of the customer (VOC), and customer relationship management (CRM) data to represent churn risk better.
 
 The proposed multimodal churn model leveraged customer segmentation by detecting negative emotions in CVs during interactions with call center operators, subsequently tailoring the response to address specific customer concerns and requirements, and gaining insights into potential dissatisfaction or frustration causes. 
