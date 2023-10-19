@@ -10,6 +10,5 @@ The results revealed a significant correlation between negative emotions, low Fi
 
 The detailed Python code for our proposed framework with further result visualization will be uploaded after the paper is published at the conference soon. 
 
-Please cite the paper (below DOI) if you are interested in the proposed methodological approach
 
 DOI:
